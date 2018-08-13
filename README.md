@@ -46,4 +46,17 @@ google cloud platform(GCP) setting
     1. https://console.cloud.google.com/google/maps-apis
 
 
+# 개별 프로젝트
+
+## static code project (react.js)
+
+## server extension project (node.js)
+
+## api server project (SpringBoot)
+
+## use appengine api project(SpringBoot) 
+
+## ML api project (tensorflow)
+
+
 
