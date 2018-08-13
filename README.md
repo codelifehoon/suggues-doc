@@ -49,12 +49,16 @@ google cloud platform(GCP) setting
 # 개별 프로젝트
 
 ## static code project (react.js)
+    https://github.com/codelifehoon/sugguesweb
 
 ## server extension project (node.js)
+    https://github.com/codelifehoon/suggues-fr
 
 ## api server project (SpringBoot)
+    https://github.com/codelifehoon/suggues-api
 
 ## use appengine api project(SpringBoot) 
+    https://github.com/codelifehoon/suggest-appengine-api
 
 ## ML api project (tensorflow)
 
